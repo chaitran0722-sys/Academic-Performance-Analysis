@@ -1,0 +1,17 @@
+Academic Performance Analysis
+
+Project Overview
+This project analyzes academic performance from 10th, Diploma, and Engineering.
+
+>Tools Used
+1 Excel
+2 Pivot Tables
+3 Charts
+
+> Key Insights
+* Performance improved from 10th to Engineering
+* Diploma phase showed major growth
+* Engineering has highest overall performance
+
+> File
+  academic_performance.xlsx
